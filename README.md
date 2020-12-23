@@ -20,4 +20,7 @@ React Native, Redux, Firebase Firestore, Redux, Expo
 
   npm i firebase
   npm i -g firebase-tools
+
+
+  npm i redux react-redux react-thunk
 ```

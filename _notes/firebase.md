@@ -10,3 +10,7 @@ copy config
 ```
   npm i firebase
 ```
+
+
+## Create databaes
+Cloud Firestore -> Create database
