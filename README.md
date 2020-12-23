@@ -12,5 +12,10 @@ React Native, Redux, Firebase Firestore, Redux, Expo
 
   expo init .
 
+  npm i @react-navigation/native
+  npm i @react-navigation/stack
+  npm i react-native-gesture-handler
+
+
   npm install -g firebase-tools
 ```
