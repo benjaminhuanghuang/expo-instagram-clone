@@ -14,3 +14,8 @@ copy config
 
 ## Create databaes
 Cloud Firestore -> Create database
+
+
+
+## File storage
+
