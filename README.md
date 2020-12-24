@@ -26,4 +26,6 @@ React Native, Redux, Firebase Firestore, Redux, Expo
   npm i redux react-redux react-thunk
 
   npm i react-native-vector-icons
+
+  npm i expo-camera
 ```
